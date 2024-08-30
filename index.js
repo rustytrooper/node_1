@@ -19,7 +19,6 @@ function polskaNotation(str) {
   const result = arr.reduce((acc, el, i) => {
     if (typeof el === 'number') {
       stack.push(el);
-      console.log(stack, i);
     } else {
       switch (el) {
         case '*':
@@ -37,4 +36,5 @@ function polskaNotation(str) {
   }, 0);
   return result
 }
+
 module.exports = polskaNotation;
