@@ -1,6 +1,6 @@
 {
   "name": "node_plsk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple app to load it on npm",
   "main": "index.js",
   "type": "commonjs",
