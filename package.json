@@ -1,6 +1,6 @@
 {
   "name": "@rustytrooper1/node_plsk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "simple app to load it on npm",
   "main": "index.js",
   "type": "commonjs",
